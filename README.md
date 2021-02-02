@@ -7,3 +7,6 @@ Oh hello, you're nosey
 3. Include example submission to ease users
 4. Jazz things up a little. Speak to Giedre maybe about this.
 5. Build/work out way of storing submissions so we don't have a disaster on the night.
+6. Recruit judges
+7. Work out prizes
+8. Think of Zoom/GatherTown
