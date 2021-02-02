@@ -41,7 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
+dl {
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
  dt {
     font-weight: bold;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
