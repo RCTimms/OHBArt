@@ -19,7 +19,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: red;
 }
 a:hover {
     text-decoration: underline;
@@ -27,14 +27,14 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-      background-color: rgba(255, 255, 255,  0.5) ;
+      background-color: rgba(255, 255, 255,  0.8) ;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
-      background-color: rgba(255, 255, 255,  0.5) ;
+      background-color: rgba(255, 255, 255,  0.8) ;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -56,5 +56,5 @@ dl {
  dt {
     font-weight: bold;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-      background-color: rgba(255, 255, 255,  0.5) ; 
+      background-color: rgba(255, 255, 255,  0.8) ; 
   }
