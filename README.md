@@ -6,8 +6,9 @@ Oh hello, you're nosey
 1. Make the hyperlink on the home page the same font (I think this is due to me not using CSS directly)
 2. Flesh out categories page
 3. Include example submission to ease users
-4. Jazz things up a little. Speak to Giedre maybe about this.
-5. Build/work out way of storing submissions so we don't have a disaster on the night.
-6. Recruit judges
+4. Jazz things up a little. Speak to Giedre maybe about this. <- Giedre
+5. Build/work out way of storing submissions so we don't have a disaster on the night. Ryan and Evan
+6. Recruit judges <- Giedre
 7. Work out prizes
 8. Think of Zoom/GatherTown
+9. Test Mozilla Hubs
