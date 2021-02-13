@@ -5,10 +5,13 @@ body {
 /*     background-color: white; */
     background-repeat: repeat;
     background-size: 300px 300px;
+	    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+
 }
 
+
+
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -28,13 +31,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 /*       background-color: rgba(255, 255, 255,  0.8) ; */
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 /*       background-color: rgba(255, 255, 255,  0.8) ; */
 }
@@ -52,11 +53,14 @@ ul.posts li {
     list-style: none;
 }
 dl {
-        font-family:'Helvetica', 'Arial', 'Sans-Serif';
 /*         background-color: rgba(255, 255, 255,  0.8) ;  */
 }
  dt {
     font-weight: bold;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 /*     background-color: rgba(255, 255, 255,  0.8) ;  */
   }
+
+#submissions {
+	color: red;
+	font-size: 2rem;
+}
