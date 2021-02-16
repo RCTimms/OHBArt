@@ -9,8 +9,8 @@ Oh hello, you're nosey
 4. ~Jazz things up a little. Speak to Giedre maybe about this. <- Giedre~
 5. Build/work out way of storing submissions so we don't have a disaster on the night. <- Ryan and Evan
 6. Recruit judges <- Giedre
-7. Work out prizes
+7. ~Work out prizes~
 8. Think of Zoom/GatherTown
-9. Test Mozilla Hubs
+9. Test Mozilla Hubs - Deadline, 22nd of February
 10. Email PIs to encourage students to submit
 11. Ask Wooly about being a judge
