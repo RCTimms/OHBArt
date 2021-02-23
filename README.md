@@ -13,4 +13,4 @@ Oh hello, you're nosey
 8. Think of Zoom/GatherTown
 9. Test Mozilla Hubs - Deadline, 22nd of February
 10. Email PIs to encourage students to submit
-11. Ask Wooly about being a judge
+11. ~Ask Wooly about being a judge~
