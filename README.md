@@ -8,9 +8,11 @@ Oh hello, you're nosey
 3. ~Include example submission to ease users <- Ryan~
 4. ~Jazz things up a little. Speak to Giedre maybe about this. <- Giedre~
 5. Build/work out way of storing submissions so we don't have a disaster on the night. <- Ryan and Evan
-6. Recruit judges <- Giedre
+6. ~Recruit judges <- Giedre~
 7. ~Work out prizes~
-8. Think of Zoom/GatherTown
+8. ~Think of Zoom/GatherTown~ - ZOOM!
 9. Test Mozilla Hubs - Deadline, 22nd of February
-10. Email PIs to encourage students to submit
+10. **Email PIs to encourage students to submit**
 11. ~Ask Wooly about being a judge~
+12. Premium Zoom link - Evan
+13. Xylophone music - Evan
