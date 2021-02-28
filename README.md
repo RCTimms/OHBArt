@@ -11,8 +11,8 @@ Oh hello, you're nosey
 6. ~Recruit judges <- Giedre~
 7. ~Work out prizes~
 8. ~Think of Zoom/GatherTown~ - ZOOM!
-9. Test Mozilla Hubs - Deadline, 22nd of February
+9. ~Test Mozilla Hubs - Deadline, 22nd of February~
 10. **Email PIs to encourage students to submit**
 11. ~Ask Wooly about being a judge~
-12. Premium Zoom link - Evan
-13. Xylophone music - Evan
+12. ~Premium Zoom link - Evan~
+13. ~Xylophone music - Evan~
